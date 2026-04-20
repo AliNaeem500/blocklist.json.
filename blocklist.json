@@ -2,7 +2,7 @@
   "users": {
     "USER123": {
       "status": "active",
-      "expiry": 1747756800000
+      "expiry": 9999999999999
     },
     "ALI_2025": {
       "status": "active",
