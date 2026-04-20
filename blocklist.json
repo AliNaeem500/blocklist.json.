@@ -1,0 +1,16 @@
+{
+  "users": {
+    "USER123": {
+      "status": "active",
+      "expiry": 1750000000000
+    },
+    "ALI_2025": {
+      "status": "active",
+      "expiry": 1755000000000
+    },
+    "NONPAYER": {
+      "status": "blocked",
+      "expiry": 0
+    }
+  }
+}
